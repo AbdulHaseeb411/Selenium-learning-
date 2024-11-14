@@ -15,4 +15,4 @@ selenium-learning/
 │   ├── 13_javascript_execution.py            # Lesson 13: Executing JavaScript commands within the browser
 │   ├── 14_data_extraction_and_parsing.py     # Lesson 14: Extracting and parsing data from webpages
 │   ├── 15_testing_framework_integration.py   # Lesson 15: Integrating Selenium with testing frameworks (unittest, pytest)
-│   └── 16_headless_browser_mode.py           # Lesson 16: Running Selenium in headless mode for faster tests
+│   └── 16_headless_browser_mode.py           # Lesson 16: Running Selenium in headless mode for faster test
